@@ -3,7 +3,9 @@
 }
 
 body {
-    font-size: 10px;
+    /*--------- THIS IS A A11Y CHANGE ------------>*/
+    font-size: 14px;
+    /*--------- FONT SIZE WAS INCREASED FOR ACCESSIBILITY ------------>*/
     font-family: Tahoma, Arial;
 }
 
