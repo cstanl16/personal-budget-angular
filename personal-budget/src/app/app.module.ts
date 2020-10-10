@@ -13,6 +13,7 @@ import { AboutComponent } from './about/about.component';
 import { LoginComponent } from './login/login.component';
 import { P404Component } from './p404/p404.component';
 import { ContactComponent } from './contact/contact.component';
+import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { ContactComponent } from './contact/contact.component';
     AboutComponent,
     LoginComponent,
     P404Component,
-    ContactComponent
+    ContactComponent,
+    BreadcrumbsComponent
   ],
   imports: [
     BrowserModule,
